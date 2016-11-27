@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: pygost
+Version: 0.15
+Summary: Pure Python GOST cryptographic functions library
+Home-page: http://www.cypherpunks.ru/pygost/
+Author: Sergey Matveev
+Author-email: stargrave@stargrave.org
+License: GPLv3+
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Security :: Cryptography
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
